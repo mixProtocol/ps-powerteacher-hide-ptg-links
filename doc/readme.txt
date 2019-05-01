@@ -1,7 +1,7 @@
 PowerTeacher Gradebook (PTG) Link Hider Plugin
 
 Description
-This plugin contains hides the PowerTeacher Gradebook (PTG) buttons and links in the LeftNav column of the PowerTeacher Portal via a simple page fragment.
+This plugin contains hides the PowerTeacher Gradebook (PTG) buttons and links in the LeftNav column of the PowerTeacher Portal via a simple page fragment.   If you've fully committed to PowerTeacher Pro (PTP), this can limit teacher confusion (provided they no longer need an easy link to PTG for historical data).
 
 Release History:
 1.00 / 20190501.01 - Initial Release
