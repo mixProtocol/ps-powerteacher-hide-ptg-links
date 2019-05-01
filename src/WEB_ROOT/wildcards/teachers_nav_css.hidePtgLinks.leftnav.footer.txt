@@ -1,0 +1,11 @@
+<script type="text/javascript" class="hidePtgLinks">
+  $j(document).ready(function(){
+    $j('#nav-main #ptgNewLaunchBox .button#ptgNewLaunchBtn').parent().hide()
+    $j('#nav-main #ptgNewLaunchBox hr').hide()
+    $j('#nav-main #ptgNewLaunchBox h2').hide()
+    $j('#nav-main #ptgNewLaunchBox .old-gradebook-launch-link').hide()
+    $j('#nav-main #ptgNewLaunchBox > script').remove()
+    $j('#nav-main #ptgNewLaunchBox .button#ptgExpandLaunchBtn').hide()
+    $j('#nav-main #ptgNewLaunchBox .button#ptgNewLaunchBtn').hide()
+  });
+</script>
